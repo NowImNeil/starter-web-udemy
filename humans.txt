@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 
-	hello wolrd
+	hello world
 	
 # TEAM
 
