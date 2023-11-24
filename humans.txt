@@ -7,7 +7,7 @@
 
 # THANKS
 
-    hullooo
+    hello
 
 # TECHNOLOGY COLOPHON
 
