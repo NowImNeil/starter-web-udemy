@@ -7,8 +7,6 @@
 
 # THANKS
 
-    this is my salutation
-	
 # TECHNOLOGY COLOPHON
 
-helloo
+ 
